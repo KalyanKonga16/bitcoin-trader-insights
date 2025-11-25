@@ -46,4 +46,4 @@ Based on this analysis, I propose a **Counter-Sentiment Sizing Mechanism**:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/bitcoin-trader-insights.git](https://github.com/YOUR-USERNAME/bitcoin-trader-insights.git)
+   git clone [https://github.com/KalyanKonga16/bitcoin-trader-insights.git](https://github.com/KalyanKonga16/bitcoin-trader-insights.git)
